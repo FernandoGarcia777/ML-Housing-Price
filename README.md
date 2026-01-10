@@ -1,6 +1,6 @@
-# 🏡 Predicción de Precios de Viviendas (California Housing)
+# 🏡 Predicción de Precios de Viviendas (Housing)
 
-Este proyecto implementa un flujo de trabajo completo de Machine Learning (End-to-End) para predecir el precio medio de viviendas en distritos de California. Se basa en datos del censo de 1990.
+
 
 El objetivo principal es demostrar el uso avanzado de **Scikit-Learn Pipelines**, **Ingeniería de Características** y **Transformadores Personalizados**.
 
