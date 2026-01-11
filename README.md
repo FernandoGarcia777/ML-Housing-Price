@@ -1,5 +1,6 @@
 # 🏡 Predicción de Precios de Viviendas (Housing)
 
+<img width="862" height="176" alt="image" src="https://github.com/user-attachments/assets/39ec89be-75d7-41fe-b620-f941db78dc02" />
 
 
 El objetivo principal es demostrar el uso avanzado de **Scikit-Learn Pipelines**, **Ingeniería de Características** y **Transformadores Personalizados**.
