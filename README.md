@@ -1,6 +1,6 @@
 # 🏡 Predicción de Precios de Viviendas (Housing)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FernandoGarcia777/ML-Housing-Price/blob/main/Housing1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FernandoGarcia777/ML-Housing-Price/blob/main/Housing_1.ipynb)
 
 
 El objetivo principal es demostrar el uso avanzado de **Scikit-Learn Pipelines**, **Ingeniería de Características** y **Transformadores Personalizados**.
